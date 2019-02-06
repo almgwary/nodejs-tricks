@@ -2,6 +2,11 @@
 
  <img src="https://raw.githubusercontent.com/almgwary/nodejs-tricks/master/nodejs-image.PNG" width="50%" style="max-width:100%;display: block;margin: auto;">
   
+ - - -  
+### Node Angular Server [code-here](https://github.com/almgwary/nodejs-tricks/blob/master/node-angular-server.js)
+ 
+ - - -
+ 
 ### NodeJs Memory allocation 
 
 
